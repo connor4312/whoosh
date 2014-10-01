@@ -7,7 +7,7 @@ Experiment learning Ruby. Uses global variables, probably breaks every code conv
 ### Usage:
 
 ```sh
- $ ruby <source_directory> <target_directory>
+ $ ruby whoosh.rb <source_directory> <target_directory>
 ```
 
 ### License
